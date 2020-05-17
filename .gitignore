@@ -3,3 +3,22 @@
 ################################################################################
 
 /Pharmix.Covid19/Pharmix.Covid19/bin
+/Pharmix.Covid19/Pharmix.Covid19/obj
+/Pharmix.Covid19/Pharmix.Covid19/Properties/PublishProfiles
+/Pharmix.Covid19/.vs/Pharmix.Covid19/v16
+/Pharmix.Covid19/.vs/Pharmix.Covid19
+/Pharmix.Covid19/Pharmix.Covid19.Models/bin
+/Pharmix.Covid19/Pharmix.Covid19.Models/obj
+/Pharmix.Covid19/Pharmix.Covid19.NotificationsMicroservice/bin/Debug/netcoreapp3.1
+/Pharmix.Covid19/Pharmix.Covid19.NotificationsMicroservice/obj
+/Pharmix.Covid19/Pharmix.Covid19.NotificationsService/bin/Debug/netcoreapp3.1
+/Pharmix.Covid19/Pharmix.Covid19.NotificationsService/obj
+/Pharmix.Covid19/Pharmix.Covid19.Services/bin
+/Pharmix.Covid19/Pharmix.Covid19.Services/obj
+/Pharmix.Covid19/Pharmix.Covid19.Tests/bin/Debug/netcoreapp3.1
+/Pharmix.Covid19/Pharmix.Covid19.Tests/obj
+/Pharmix.Covid19/Pharmix.Covid19.UploadsMicroservice/bin/Debug/netcoreapp3.1
+/Pharmix.Covid19/Pharmix.Covid19.UploadsMicroservice/obj
+/Pharmix.Covid19/Pharmix.Covid19.UploadsService/bin/Debug/netcoreapp3.1
+/Pharmix.Covid19/Pharmix.Covid19.UploadsService/obj/Debug/netcoreapp3.1
+/Pharmix.Covid19/Pharmix.Covid19.UploadsService/obj
